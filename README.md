@@ -1,0 +1,1 @@
+This project is about writing a webpage about recipes with pure HTML
